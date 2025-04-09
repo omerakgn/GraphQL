@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sistem\\GraphQL\\GraphQL.csproj": {}
+    "C:\\Users\\Sistem\\Documents\\GitHub\\GraphQL\\GraphQL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sistem\\GraphQL\\GraphQL.csproj": {
+    "C:\\Users\\Sistem\\Documents\\GitHub\\GraphQL\\GraphQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sistem\\GraphQL\\GraphQL.csproj",
+        "projectUniqueName": "C:\\Users\\Sistem\\Documents\\GitHub\\GraphQL\\GraphQL.csproj",
         "projectName": "GraphQL",
-        "projectPath": "C:\\Users\\Sistem\\GraphQL\\GraphQL.csproj",
+        "projectPath": "C:\\Users\\Sistem\\Documents\\GitHub\\GraphQL\\GraphQL.csproj",
         "packagesPath": "C:\\Users\\Sistem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sistem\\GraphQL\\obj\\",
+        "outputPath": "C:\\Users\\Sistem\\Documents\\GitHub\\GraphQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sistem\\AppData\\Roaming\\NuGet\\NuGet.Config"
